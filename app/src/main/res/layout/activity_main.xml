@@ -50,6 +50,7 @@
             android:text="Remember me" />
 
         <Button
+            android:id="@+id/loginBTN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#58330a"
